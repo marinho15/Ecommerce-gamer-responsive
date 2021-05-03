@@ -25,7 +25,7 @@
 
 <h2 align="left" id="sobre">  Sobre </h2>
 
-<h4>  O projeto consiste em um formulario de login totalmente responsivo e animado.  </h4>
+<h4>  O projeto consiste em um E-commerce de vendas de jogos e video-games totalmente responsivo e animado.  </h4>
 
 
 
